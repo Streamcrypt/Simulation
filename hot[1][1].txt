@@ -1,0 +1,12 @@
+PS C:\Users\Joel> dir C:\Windows\System32\sppsvc.exe
+
+
+    Directory: C:\Windows\System32
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         5/26/2025   2:36 AM        5296133 sppsvc.exe
+
+
+PS C:\Users\Joel>

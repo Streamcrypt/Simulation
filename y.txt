@@ -1,0 +1,26 @@
+Subject / Title: Request to Contribute to Remaining Levels
+
+Message:
+Hi [Owner’s Name or @az0mb13],
+
+I’ve been working through Ethernaut and noticed some levels are missing in your Foundry repo. Originally, I considered creating my own Foundry, but I thought it would be better to contribute to an existing project.
+
+I would love to contribute to your repository: https://github.com/az0mb13/ethernaut-foundry
+.
+
+Here’s a bit about me and my approach:
+
+I’m actively working through Ethernaut (username: @actlysis)
+
+GitHub profile: https://github.com/Streamcrypt?tab=followers
+
+I will follow your project structure for each remaining level
+
+I plan to write accompanying Medium articles for each level
+
+I’m eager to help improve the repo and contribute to your mission of making Web3 safer. Please let me know if I can submit a Pull Request for the remaining levels.
+
+Thank you for your time and consideration!
+
+Best regards,
+Sebastian
