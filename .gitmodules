@@ -1,0 +1,3 @@
+[submodule "Ethernaut-scripts"]
+	path = Ethernaut-scripts
+	url = https://github.com/Streamcrypt/Ethernaut-scripts.git
